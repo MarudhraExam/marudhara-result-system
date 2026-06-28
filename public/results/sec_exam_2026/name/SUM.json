@@ -1,0 +1,38 @@
+[
+  {
+    "r": "101013",
+    "n": "Sumit Sen Pillai",
+    "f": "Vikram Kumar Patel",
+    "s": "PASS"
+  },
+  {
+    "r": "101042",
+    "n": "Sumit Lal Kumar",
+    "f": "Rahul Verma Kumar",
+    "s": "FAIL"
+  },
+  {
+    "r": "101052",
+    "n": "Sumit Verma Pandey",
+    "f": "Aarti Mehta",
+    "s": "PASS"
+  },
+  {
+    "r": "101166",
+    "n": "Sumit Kumar Saxena",
+    "f": "Ramesh Prasad Vyas",
+    "s": "PASS"
+  },
+  {
+    "r": "101170",
+    "n": "Sumit Singh Vyas",
+    "f": "Ashish Kumar Sen",
+    "s": "FAIL"
+  },
+  {
+    "r": "101175",
+    "n": "Sumit Sen Sharma",
+    "f": "Arjun Singh Sharma",
+    "s": "COMPARTMENT"
+  }
+]

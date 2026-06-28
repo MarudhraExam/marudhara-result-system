@@ -1,0 +1,7602 @@
+{
+  "101001": {
+    "roll": "101001",
+    "name": "Aarti Jha",
+    "father": "Sonia Prasad Pillai",
+    "mother": "Usha Pandey",
+    "subjects": {
+      "English": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 64,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 4,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 49,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 271,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 54
+  },
+  "101002": {
+    "roll": "101002",
+    "name": "Rohan Sen Dutta",
+    "father": "Rajesh Prasad Rai",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 93,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 386,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 77
+  },
+  "101003": {
+    "roll": "101003",
+    "name": "Karan Lal Roy",
+    "father": "Neha Prasad Vyas",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 85,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 41,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 329,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 66
+  },
+  "101004": {
+    "roll": "101004",
+    "name": "Meena Singh Saxena",
+    "father": "Kunal Prasad Srivastava",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 45,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 32,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 300,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 60
+  },
+  "101005": {
+    "roll": "101005",
+    "name": "Kunal Kumar Reddy",
+    "father": "Anil Chand Mishra",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 74,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 396,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 79
+  },
+  "101006": {
+    "roll": "101006",
+    "name": "Vijay Prasad Sharma",
+    "father": "Karan Sen Pillai",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 31,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 321,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 64
+  },
+  "101007": {
+    "roll": "101007",
+    "name": "Arvind Singh Patel",
+    "father": "Nisha Singh Pillai",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 49,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 30,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 318,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 64
+  },
+  "101008": {
+    "roll": "101008",
+    "name": "Arjun Lal Patel",
+    "father": "Jyoti Trivedi",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 29,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 74,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 341,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 68
+  },
+  "101009": {
+    "roll": "101009",
+    "name": "Harish Singh Mehta",
+    "father": "Kiran Prasad Trivedi",
+    "mother": "Kamla Singh",
+    "subjects": {
+      "English": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 441,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 88
+  },
+  "101010": {
+    "roll": "101010",
+    "name": "Anjali Chand Bhatt",
+    "father": "Neha Verma Choudhary",
+    "mother": "Sarla Gupta",
+    "subjects": {
+      "English": {
+        "marks": 93,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 378,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 76
+  },
+  "101011": {
+    "roll": "101011",
+    "name": "Rohan Lal Choudhary",
+    "father": "Sumit Chand Sen",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 1,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 16,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 85,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 239,
+    "maxMarks": 500,
+    "status": "FAIL",
+    "division": "N/A",
+    "percentage": 48
+  },
+  "101012": {
+    "roll": "101012",
+    "name": "Suresh Reddy",
+    "father": "Alok Sen Srivastava",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 36,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 302,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 60
+  },
+  "101013": {
+    "roll": "101013",
+    "name": "Sumit Sen Pillai",
+    "father": "Vikram Kumar Patel",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 333,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 67
+  },
+  "101014": {
+    "roll": "101014",
+    "name": "Renu Nair",
+    "father": "Anil Prasad Nair",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 333,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 67
+  },
+  "101015": {
+    "roll": "101015",
+    "name": "Divya Gupta",
+    "father": "Deepak Prasad Sinha",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 30,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 12,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 249,
+    "maxMarks": 500,
+    "status": "FAIL",
+    "division": "N/A",
+    "percentage": 50
+  },
+  "101016": {
+    "roll": "101016",
+    "name": "Preeti Chand Das",
+    "father": "Swati Verma Kumar",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 94,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 45,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 377,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 75
+  },
+  "101017": {
+    "roll": "101017",
+    "name": "Arvind Lal Trivedi",
+    "father": "Sachin Sen Mehta",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 33,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 278,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 56
+  },
+  "101018": {
+    "roll": "101018",
+    "name": "Priyanka Sen Vyas",
+    "father": "Aditya Singh Das",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 31,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 319,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 64
+  },
+  "101019": {
+    "roll": "101019",
+    "name": "Swati Kumar Sinha",
+    "father": "Ritu Kumar Jha",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 14,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 97,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 287,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 57
+  },
+  "101020": {
+    "roll": "101020",
+    "name": "Sonia Lal Joshi",
+    "father": "Pankaj Verma Chauhan",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 13,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 287,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 57
+  },
+  "101021": {
+    "roll": "101021",
+    "name": "Sandeep Chand Verma",
+    "father": "Manoj Lal Roy",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 97,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 374,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 75
+  },
+  "101022": {
+    "roll": "101022",
+    "name": "Nisha Prasad Prasad",
+    "father": "Rohan Singh Nair",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 378,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 76
+  },
+  "101023": {
+    "roll": "101023",
+    "name": "Rohan Prasad Mishra",
+    "father": "Priyanka Kumar Rai",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 0,
+    "maxMarks": 500,
+    "status": "ABSENT",
+    "division": "N/A",
+    "percentage": 0
+  },
+  "101024": {
+    "roll": "101024",
+    "name": "Renu Chauhan",
+    "father": "Neha Lal Das",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 37,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 73,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 354,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 71
+  },
+  "101025": {
+    "roll": "101025",
+    "name": "Shalini Das",
+    "father": "Vikram Kumar Das",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 305,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 61
+  },
+  "101026": {
+    "roll": "101026",
+    "name": "Preeti Verma Sharma",
+    "father": "Deepak Sharma Reddy",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": 5,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 73,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 329,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 66
+  },
+  "101027": {
+    "roll": "101027",
+    "name": "Suresh Reddy",
+    "father": "Sanjay Sen Sharma",
+    "mother": "Kamla Singh",
+    "subjects": {
+      "English": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 43,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 355,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 71
+  },
+  "101028": {
+    "roll": "101028",
+    "name": "Rashmi Prasad Das",
+    "father": "Manoj Vyas",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 85,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 49,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 291,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 58
+  },
+  "101029": {
+    "roll": "101029",
+    "name": "Sonia Lal Bhatt",
+    "father": "Anjali Sen Das",
+    "mother": "Sunita Devi",
+    "subjects": {
+      "English": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 97,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 15,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 19,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 46,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 240,
+    "maxMarks": 500,
+    "status": "FAIL",
+    "division": "N/A",
+    "percentage": 48
+  },
+  "101030": {
+    "roll": "101030",
+    "name": "Abhishek Singh Srivastava",
+    "father": "Manish Prasad Pillai",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 25,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 292,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 58
+  },
+  "101031": {
+    "roll": "101031",
+    "name": "Rahul Verma Jha",
+    "father": "Neha Chand Rao",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 15,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 47,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 252,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 50
+  },
+  "101032": {
+    "roll": "101032",
+    "name": "Neha Singh Dutta",
+    "father": "Harish Chand Mehta",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 0,
+    "maxMarks": 500,
+    "status": "ABSENT",
+    "division": "N/A",
+    "percentage": 0
+  },
+  "101033": {
+    "roll": "101033",
+    "name": "Deepak Sharma Saxena",
+    "father": "Gaurav Joshi",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 47,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 274,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 55
+  },
+  "101034": {
+    "roll": "101034",
+    "name": "Rashmi Singh Mehta",
+    "father": "Abhishek Sen Nair",
+    "mother": "Usha Pandey",
+    "subjects": {
+      "English": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 64,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 387,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 77
+  },
+  "101035": {
+    "roll": "101035",
+    "name": "Kunal Chauhan",
+    "father": "Rohan Sharma Roy",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 93,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 30,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 35,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 41,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 264,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 53
+  },
+  "101036": {
+    "roll": "101036",
+    "name": "Sunita Kumar Chauhan",
+    "father": "Renu Verma Gupta",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 93,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 420,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 84
+  },
+  "101037": {
+    "roll": "101037",
+    "name": "Priyanka Sen Sen",
+    "father": "Anil Prasad Pandey",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 330,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 66
+  },
+  "101038": {
+    "roll": "101038",
+    "name": "Ritu Sharma Gupta",
+    "father": "Swati Kumar Yadav",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 351,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 70
+  },
+  "101039": {
+    "roll": "101039",
+    "name": "Abhishek Prasad Jha",
+    "father": "Arvind Sharma Patel",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 41,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 32,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 280,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 56
+  },
+  "101040": {
+    "roll": "101040",
+    "name": "Seema Lal Mehta",
+    "father": "Arvind Sharma Srivastava",
+    "mother": "Kamla Singh",
+    "subjects": {
+      "English": {
+        "marks": 94,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 93,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 35,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 373,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 75
+  },
+  "101041": {
+    "roll": "101041",
+    "name": "Deepak Sen Reddy",
+    "father": "Ritu Sharma Patel",
+    "mother": "Usha Pandey",
+    "subjects": {
+      "English": {
+        "marks": 42,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 64,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 93,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 342,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 68
+  },
+  "101042": {
+    "roll": "101042",
+    "name": "Sumit Lal Kumar",
+    "father": "Rahul Verma Kumar",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 3,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 30,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 278,
+    "maxMarks": 500,
+    "status": "FAIL",
+    "division": "N/A",
+    "percentage": 56
+  },
+  "101043": {
+    "roll": "101043",
+    "name": "Arjun Kumar Das",
+    "father": "Amit Sharma Mishra",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 5,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 332,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 66
+  },
+  "101044": {
+    "roll": "101044",
+    "name": "Alok Kumar Sen",
+    "father": "Aarti Sharma Choudhary",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 14,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 288,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 58
+  },
+  "101045": {
+    "roll": "101045",
+    "name": "Alok Verma Verma",
+    "father": "Abhishek Lal Sen",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 74,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 73,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 357,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 71
+  },
+  "101046": {
+    "roll": "101046",
+    "name": "Ritu Sharma",
+    "father": "Kiran Chand Sen",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 93,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 397,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 79
+  },
+  "101047": {
+    "roll": "101047",
+    "name": "Manish Kumar Kumar",
+    "father": "Seema Sharma Choudhary",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 11,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 309,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 62
+  },
+  "101048": {
+    "roll": "101048",
+    "name": "Pankaj Singh Das",
+    "father": "Kiran Chand Trivedi",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 13,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 219,
+    "maxMarks": 500,
+    "status": "FAIL",
+    "division": "N/A",
+    "percentage": 44
+  },
+  "101049": {
+    "roll": "101049",
+    "name": "Sachin Verma Singh",
+    "father": "Anjali Lal Verma",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 327,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 65
+  },
+  "101050": {
+    "roll": "101050",
+    "name": "Sachin Verma Mishra",
+    "father": "Pankaj Verma Joshi",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 39,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 74,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 313,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 63
+  },
+  "101051": {
+    "roll": "101051",
+    "name": "Shalini Prasad Srivastava",
+    "father": "Abhishek Kumar Joshi",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 64,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 388,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 78
+  },
+  "101052": {
+    "roll": "101052",
+    "name": "Sumit Verma Pandey",
+    "father": "Aarti Mehta",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 33,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 303,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 61
+  },
+  "101053": {
+    "roll": "101053",
+    "name": "Dinesh Prasad Pandey",
+    "father": "Sunita Verma Yadav",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 74,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 354,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 71
+  },
+  "101054": {
+    "roll": "101054",
+    "name": "Sunil Verma Verma",
+    "father": "Shalini Singh Sen",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 97,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 403,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 81
+  },
+  "101055": {
+    "roll": "101055",
+    "name": "Kiran Verma Pillai",
+    "father": "Sanjay Prasad Yadav",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 47,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 47,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 296,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 59
+  },
+  "101056": {
+    "roll": "101056",
+    "name": "Neha Kumar Kumar",
+    "father": "Amit Sharma Bhatt",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 294,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 59
+  },
+  "101057": {
+    "roll": "101057",
+    "name": "Renu Singh Rao",
+    "father": "Neha Prasad Das",
+    "mother": "Sunita Devi",
+    "subjects": {
+      "English": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 42,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 61,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 19,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 276,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 55
+  },
+  "101058": {
+    "roll": "101058",
+    "name": "Nitin Verma Srivastava",
+    "father": "Manish Bhatt",
+    "mother": "Usha Pandey",
+    "subjects": {
+      "English": {
+        "marks": 24,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 46,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 283,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 57
+  },
+  "101059": {
+    "roll": "101059",
+    "name": "Sachin Chand Singh",
+    "father": "Sonia Sharma Rai",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 0,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 85,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 32,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 281,
+    "maxMarks": 500,
+    "status": "FAIL",
+    "division": "N/A",
+    "percentage": 56
+  },
+  "101060": {
+    "roll": "101060",
+    "name": "Sunil Lal Chauhan",
+    "father": "Gaurav Prasad Dutta",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 47,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 37,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 73,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 311,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 62
+  },
+  "101061": {
+    "roll": "101061",
+    "name": "Meena Verma Pillai",
+    "father": "Neha Pandey",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 325,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 65
+  },
+  "101062": {
+    "roll": "101062",
+    "name": "Suresh Chand Joshi",
+    "father": "Dinesh Sen Singh",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 61,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 47,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 297,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 59
+  },
+  "101063": {
+    "roll": "101063",
+    "name": "Anjali Sen Mishra",
+    "father": "Sachin Singh Singh",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": 31,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 42,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 267,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 53
+  },
+  "101064": {
+    "roll": "101064",
+    "name": "Sunil Singh Trivedi",
+    "father": "Seema Prasad Mishra",
+    "mother": "Sunita Devi",
+    "subjects": {
+      "English": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 46,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 73,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 329,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 66
+  },
+  "101065": {
+    "roll": "101065",
+    "name": "Sandeep Kumar Rai",
+    "father": "Aditya Chand Sharma",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 46,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 94,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 355,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 71
+  },
+  "101066": {
+    "roll": "101066",
+    "name": "Sandeep Roy",
+    "father": "Rajesh Prasad Reddy",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 16,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 94,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 323,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 65
+  },
+  "101067": {
+    "roll": "101067",
+    "name": "Kunal Singh Pandey",
+    "father": "Shalini Prasad Trivedi",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 327,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 65
+  },
+  "101068": {
+    "roll": "101068",
+    "name": "Ashish Lal Gupta",
+    "father": "Gaurav Prasad Nair",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 42,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 352,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 70
+  },
+  "101069": {
+    "roll": "101069",
+    "name": "Karan Kumar Rao",
+    "father": "Sunil Sharma Mishra",
+    "mother": "Sarla Gupta",
+    "subjects": {
+      "English": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 97,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 20,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 339,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 68
+  },
+  "101070": {
+    "roll": "101070",
+    "name": "Preeti Lal Rao",
+    "father": "Anjali Verma Reddy",
+    "mother": "Sarla Gupta",
+    "subjects": {
+      "English": {
+        "marks": 40,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 325,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 65
+  },
+  "101071": {
+    "roll": "101071",
+    "name": "Deepak Verma Gupta",
+    "father": "Kunal Reddy",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 97,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 37,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 322,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 64
+  },
+  "101072": {
+    "roll": "101072",
+    "name": "Aditya Singh Choudhary",
+    "father": "Amit Sharma Das",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 413,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 83
+  },
+  "101073": {
+    "roll": "101073",
+    "name": "Sunita Chand Saxena",
+    "father": "Sunil Sen Sinha",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 36,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 414,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 83
+  },
+  "101074": {
+    "roll": "101074",
+    "name": "Abhishek Lal Mishra",
+    "father": "Priyanka Verma Jha",
+    "mother": "Kamla Singh",
+    "subjects": {
+      "English": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 74,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 73,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 85,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 393,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 79
+  },
+  "101075": {
+    "roll": "101075",
+    "name": "Sachin Sharma Dutta",
+    "father": "Sonia Sen Mishra",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 331,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 66
+  },
+  "101076": {
+    "roll": "101076",
+    "name": "Anil Mehta",
+    "father": "Kunal Lal Kumar",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 46,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 45,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 359,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 72
+  },
+  "101077": {
+    "roll": "101077",
+    "name": "Gaurav Singh Rao",
+    "father": "Renu Lal Mishra",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 39,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 370,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 74
+  },
+  "101078": {
+    "roll": "101078",
+    "name": "Ashish Sen Sen",
+    "father": "Aarti Kumar Srivastava",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 49,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 97,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 269,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 54
+  },
+  "101079": {
+    "roll": "101079",
+    "name": "Preeti Singh Gupta",
+    "father": "Priyanka Sen Das",
+    "mother": "Kamla Singh",
+    "subjects": {
+      "English": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 363,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 73
+  },
+  "101080": {
+    "roll": "101080",
+    "name": "Shalini Verma Dutta",
+    "father": "Rahul Lal Patel",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 11,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 61,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 309,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 62
+  },
+  "101081": {
+    "roll": "101081",
+    "name": "Swati Prasad Dutta",
+    "father": "Aditya Chand Sinha",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 44,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 37,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 42,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 268,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 54
+  },
+  "101082": {
+    "roll": "101082",
+    "name": "Priyanka Verma Trivedi",
+    "father": "Jyoti Sharma Sinha",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 37,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 93,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 332,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 66
+  },
+  "101083": {
+    "roll": "101083",
+    "name": "Shalini Chand Patel",
+    "father": "Sonia Verma Sinha",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 17,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 372,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 74
+  },
+  "101084": {
+    "roll": "101084",
+    "name": "Vikram Reddy",
+    "father": "Abhishek Chand Nair",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 40,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 329,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 66
+  },
+  "101085": {
+    "roll": "101085",
+    "name": "Preeti Prasad Patel",
+    "father": "Sandeep Prasad Prasad",
+    "mother": "Kamla Singh",
+    "subjects": {
+      "English": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 94,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 380,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 76
+  },
+  "101086": {
+    "roll": "101086",
+    "name": "Sandeep Sen Mishra",
+    "father": "Neha Verma Gupta",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 44,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 273,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 55
+  },
+  "101087": {
+    "roll": "101087",
+    "name": "Aarti Sen Kumar",
+    "father": "Rohan Chand Bhatt",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 47,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 64,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 297,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 59
+  },
+  "101088": {
+    "roll": "101088",
+    "name": "Sunita Dutta",
+    "father": "Sandeep Verma Patel",
+    "mother": "Sarla Gupta",
+    "subjects": {
+      "English": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 25,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 25,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 294,
+    "maxMarks": 500,
+    "status": "FAIL",
+    "division": "N/A",
+    "percentage": 59
+  },
+  "101089": {
+    "roll": "101089",
+    "name": "Harish Sen Jha",
+    "father": "Sunita Prasad Bhatt",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 354,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 71
+  },
+  "101090": {
+    "roll": "101090",
+    "name": "Amit Singh Bhatt",
+    "father": "Seema Verma Trivedi",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 74,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 349,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 70
+  },
+  "101091": {
+    "roll": "101091",
+    "name": "Swati Verma Jha",
+    "father": "Aarti Lal Mehta",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 371,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 74
+  },
+  "101092": {
+    "roll": "101092",
+    "name": "Manoj Lal Srivastava",
+    "father": "Ritu Kumar Das",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 19,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 36,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 39,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 24,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 216,
+    "maxMarks": 500,
+    "status": "FAIL",
+    "division": "N/A",
+    "percentage": 43
+  },
+  "101093": {
+    "roll": "101093",
+    "name": "Anil Kumar Pandey",
+    "father": "Ritu Chand Singh",
+    "mother": "Sunita Devi",
+    "subjects": {
+      "English": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 46,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 39,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 298,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 60
+  },
+  "101094": {
+    "roll": "101094",
+    "name": "Suresh Chand Sen",
+    "father": "Sunil Sharma Rai",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 16,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 61,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 34,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 233,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 47
+  },
+  "101095": {
+    "roll": "101095",
+    "name": "Renu Chand Dutta",
+    "father": "Ramesh Joshi",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 36,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 64,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 344,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 69
+  },
+  "101096": {
+    "roll": "101096",
+    "name": "Rashmi Prasad Rao",
+    "father": "Sonia Sen Pillai",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 310,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 62
+  },
+  "101097": {
+    "roll": "101097",
+    "name": "Suresh Prasad Choudhary",
+    "father": "Rajesh Sharma Chauhan",
+    "mother": "Sarla Gupta",
+    "subjects": {
+      "English": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 386,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 77
+  },
+  "101098": {
+    "roll": "101098",
+    "name": "Kavita Chand Mishra",
+    "father": "Anil Chauhan",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 290,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 58
+  },
+  "101099": {
+    "roll": "101099",
+    "name": "Pankaj Chand Singh",
+    "father": "Rohan Verma Pandey",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 93,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 27,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 328,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 66
+  },
+  "101100": {
+    "roll": "101100",
+    "name": "Ritu Singh Pandey",
+    "father": "Amit Bhatt",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 305,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 61
+  },
+  "101101": {
+    "roll": "101101",
+    "name": "Arvind Singh Rao",
+    "father": "Anjali Sen Bhatt",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 41,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 311,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 62
+  },
+  "101102": {
+    "roll": "101102",
+    "name": "Kavita Sen Kumar",
+    "father": "Abhishek Sharma Dutta",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 377,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 75
+  },
+  "101103": {
+    "roll": "101103",
+    "name": "Manoj Kumar Yadav",
+    "father": "Arvind Chand Reddy",
+    "mother": "Sarla Gupta",
+    "subjects": {
+      "English": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 30,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 331,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 66
+  },
+  "101104": {
+    "roll": "101104",
+    "name": "Sandeep Chand Kumar",
+    "father": "Amit Chand Das",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 348,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 70
+  },
+  "101105": {
+    "roll": "101105",
+    "name": "Meena Kumar Kumar",
+    "father": "Jyoti Kumar Vyas",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 4,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 285,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 57
+  },
+  "101106": {
+    "roll": "101106",
+    "name": "Aditya Sen Das",
+    "father": "Dinesh Sharma Sharma",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 11,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 319,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 64
+  },
+  "101107": {
+    "roll": "101107",
+    "name": "Kiran Singh Kumar",
+    "father": "Dinesh Sen Sen",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 42,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 287,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 57
+  },
+  "101108": {
+    "roll": "101108",
+    "name": "Pooja Chand Nair",
+    "father": "Sumit Mehta",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 394,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 79
+  },
+  "101109": {
+    "roll": "101109",
+    "name": "Jyoti Kumar Kumar",
+    "father": "Alok Kumar Rai",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 26,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 313,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 63
+  },
+  "101110": {
+    "roll": "101110",
+    "name": "Sanjay Kumar Sinha",
+    "father": "Kiran Sen Trivedi",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 358,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 72
+  },
+  "101111": {
+    "roll": "101111",
+    "name": "Aarti Mishra",
+    "father": "Pooja Singh Nair",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 94,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 347,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 69
+  },
+  "101112": {
+    "roll": "101112",
+    "name": "Rashmi Sen Chauhan",
+    "father": "Rajesh Verma Saxena",
+    "mother": "Usha Pandey",
+    "subjects": {
+      "English": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 37,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 280,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 56
+  },
+  "101113": {
+    "roll": "101113",
+    "name": "Kavita Verma Prasad",
+    "father": "Gaurav Trivedi",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 34,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 74,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 39,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 308,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 62
+  },
+  "101114": {
+    "roll": "101114",
+    "name": "Aarti Prasad Rao",
+    "father": "Abhishek Lal Saxena",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 49,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 85,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 330,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 66
+  },
+  "101115": {
+    "roll": "101115",
+    "name": "Kavita Sharma Rao",
+    "father": "Ramesh Chand Bhatt",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 366,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 73
+  },
+  "101116": {
+    "roll": "101116",
+    "name": "Karan Sen Joshi",
+    "father": "Sunil Kumar Sinha",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 30,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 33,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 286,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 57
+  },
+  "101117": {
+    "roll": "101117",
+    "name": "Abhishek Singh Reddy",
+    "father": "Meena Singh Pillai",
+    "mother": "Usha Pandey",
+    "subjects": {
+      "English": {
+        "marks": 34,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 34,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 306,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 61
+  },
+  "101118": {
+    "roll": "101118",
+    "name": "Arvind Chand Pillai",
+    "father": "Rashmi Kumar Chauhan",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 41,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 4,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 270,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 54
+  },
+  "101119": {
+    "roll": "101119",
+    "name": "Arvind Rai",
+    "father": "Preeti Singh Mishra",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 64,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 364,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 73
+  },
+  "101120": {
+    "roll": "101120",
+    "name": "Vikram Singh Mishra",
+    "father": "Anil Verma Sen",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 61,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 386,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 77
+  },
+  "101121": {
+    "roll": "101121",
+    "name": "Gaurav Sharma Roy",
+    "father": "Jyoti Lal Mishra",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 45,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 338,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 68
+  },
+  "101122": {
+    "roll": "101122",
+    "name": "Sunil Verma Saxena",
+    "father": "Harish Verma Saxena",
+    "mother": "Usha Pandey",
+    "subjects": {
+      "English": {
+        "marks": 29,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 85,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 287,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 57
+  },
+  "101123": {
+    "roll": "101123",
+    "name": "Kavita Lal Singh",
+    "father": "Vikram Kumar Yadav",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 42,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 26,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 85,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 291,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 58
+  },
+  "101124": {
+    "roll": "101124",
+    "name": "Sonia Singh Yadav",
+    "father": "Karan Prasad Pillai",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 328,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 66
+  },
+  "101125": {
+    "roll": "101125",
+    "name": "Jyoti Verma Pillai",
+    "father": "Rajesh Patel",
+    "mother": "Usha Pandey",
+    "subjects": {
+      "English": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 45,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 371,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 74
+  },
+  "101126": {
+    "roll": "101126",
+    "name": "Alok Sharma Reddy",
+    "father": "Amit Kumar Mishra",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 393,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 79
+  },
+  "101127": {
+    "roll": "101127",
+    "name": "Meena Sen Rai",
+    "father": "Harish Sen Prasad",
+    "mother": "Kamla Singh",
+    "subjects": {
+      "English": {
+        "marks": 61,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 94,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 316,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 63
+  },
+  "101128": {
+    "roll": "101128",
+    "name": "Kavita Verma Kumar",
+    "father": "Meena Chand Rao",
+    "mother": "Sarla Gupta",
+    "subjects": {
+      "English": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 322,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 64
+  },
+  "101129": {
+    "roll": "101129",
+    "name": "Renu Sen Pandey",
+    "father": "Pooja Sen Rai",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 24,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 312,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 62
+  },
+  "101130": {
+    "roll": "101130",
+    "name": "Jyoti Singh Patel",
+    "father": "Ramesh Srivastava",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 361,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 72
+  },
+  "101131": {
+    "roll": "101131",
+    "name": "Vijay Prasad Srivastava",
+    "father": "Neha Prasad Dutta",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 372,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 74
+  },
+  "101132": {
+    "roll": "101132",
+    "name": "Gaurav Lal Nair",
+    "father": "Rajesh Verma Jha",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 49,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 367,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 73
+  },
+  "101133": {
+    "roll": "101133",
+    "name": "Kunal Verma Saxena",
+    "father": "Renu Kumar Prasad",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 97,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 97,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 455,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 91
+  },
+  "101134": {
+    "roll": "101134",
+    "name": "Sanjay Chand Trivedi",
+    "father": "Ritu Verma Sinha",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 32,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 7,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 41,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 44,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 214,
+    "maxMarks": 500,
+    "status": "FAIL",
+    "division": "N/A",
+    "percentage": 43
+  },
+  "101135": {
+    "roll": "101135",
+    "name": "Nitin Sharma Trivedi",
+    "father": "Abhishek Sharma Patel",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 46,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 97,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 359,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 72
+  },
+  "101136": {
+    "roll": "101136",
+    "name": "Abhishek Kumar Srivastava",
+    "father": "Kunal Sharma Mishra",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 73,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 74,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 319,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 64
+  },
+  "101137": {
+    "roll": "101137",
+    "name": "Ramesh Prasad Joshi",
+    "father": "Alok Sen Das",
+    "mother": "Sita Devi",
+    "subjects": {
+      "English": {
+        "marks": 42,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 3,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 238,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 48
+  },
+  "101138": {
+    "roll": "101138",
+    "name": "Rahul Sen Gupta",
+    "father": "Sunita Sharma Jha",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 64,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 331,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 66
+  },
+  "101139": {
+    "roll": "101139",
+    "name": "Ramesh Lal Rao",
+    "father": "Gaurav Sharma Vyas",
+    "mother": "Kamla Singh",
+    "subjects": {
+      "English": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 30,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 318,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 64
+  },
+  "101140": {
+    "roll": "101140",
+    "name": "Nisha Sen Kumar",
+    "father": "Sachin Srivastava",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 379,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 76
+  },
+  "101141": {
+    "roll": "101141",
+    "name": "Sanjay Verma Kumar",
+    "father": "Arjun Lal Sen",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 85,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 32,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 18,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 285,
+    "maxMarks": 500,
+    "status": "FAIL",
+    "division": "N/A",
+    "percentage": 57
+  },
+  "101142": {
+    "roll": "101142",
+    "name": "Divya Kumar Yadav",
+    "father": "Sumit Chand Vyas",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 314,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 63
+  },
+  "101143": {
+    "roll": "101143",
+    "name": "Pankaj Prasad Mehta",
+    "father": "Nisha Verma Sen",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 73,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 386,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 77
+  },
+  "101144": {
+    "roll": "101144",
+    "name": "Rajesh Chand Sharma",
+    "father": "Nitin Lal Sharma",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 339,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 68
+  },
+  "101145": {
+    "roll": "101145",
+    "name": "Rajesh Verma Saxena",
+    "father": "Meena Sen Verma",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 93,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 35,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 353,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 71
+  },
+  "101146": {
+    "roll": "101146",
+    "name": "Rahul Kumar Reddy",
+    "father": "Aarti Sen Dutta",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 319,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 64
+  },
+  "101147": {
+    "roll": "101147",
+    "name": "Arvind Kumar Mehta",
+    "father": "Kunal Kumar Mishra",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 29,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 47,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 37,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 259,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 52
+  },
+  "101148": {
+    "roll": "101148",
+    "name": "Preeti Chand Rao",
+    "father": "Shalini Kumar Vyas",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 6,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 314,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 63
+  },
+  "101149": {
+    "roll": "101149",
+    "name": "Alok Verma Sinha",
+    "father": "Priyanka Sharma Bhatt",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 43,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 45,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 306,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 61
+  },
+  "101150": {
+    "roll": "101150",
+    "name": "Nisha Sharma Joshi",
+    "father": "Sandeep Prasad Rai",
+    "mother": "Kamla Singh",
+    "subjects": {
+      "English": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 74,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 39,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 348,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 70
+  },
+  "101151": {
+    "roll": "101151",
+    "name": "Abhishek Chand Vyas",
+    "father": "Vijay Sen Roy",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 45,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 97,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 352,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 70
+  },
+  "101152": {
+    "roll": "101152",
+    "name": "Arvind Kumar Singh",
+    "father": "Amit Prasad Jha",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 47,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 337,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 67
+  },
+  "101153": {
+    "roll": "101153",
+    "name": "Divya Verma Sharma",
+    "father": "Neha Prasad Sen",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 43,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 93,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 93,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 356,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 71
+  },
+  "101154": {
+    "roll": "101154",
+    "name": "Aarti Verma Rai",
+    "father": "Vikram Kumar Sinha",
+    "mother": "Radha Yadav",
+    "subjects": {
+      "English": {
+        "marks": 34,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 17,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 255,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 51
+  },
+  "101155": {
+    "roll": "101155",
+    "name": "Neha Sharma Roy",
+    "father": "Arvind Prasad Sen",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 33,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 49,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 38,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 262,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 52
+  },
+  "101156": {
+    "roll": "101156",
+    "name": "Rahul Sharma Rai",
+    "father": "Sandeep Sen Rai",
+    "mother": "Sunita Devi",
+    "subjects": {
+      "English": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 44,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 317,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 63
+  },
+  "101157": {
+    "roll": "101157",
+    "name": "Nitin Kumar Yadav",
+    "father": "Kunal Verma Saxena",
+    "mother": "Sarla Gupta",
+    "subjects": {
+      "English": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 91,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 32,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 45,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 298,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 60
+  },
+  "101158": {
+    "roll": "101158",
+    "name": "Rahul Kumar",
+    "father": "Vikram Sharma Singh",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 10,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 49,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 281,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 56
+  },
+  "101159": {
+    "roll": "101159",
+    "name": "Arjun Kumar Verma",
+    "father": "Ashish Chand Rai",
+    "mother": "Kamla Singh",
+    "subjects": {
+      "English": {
+        "marks": 97,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 41,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 49,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 307,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 61
+  },
+  "101160": {
+    "roll": "101160",
+    "name": "Neha Sharma",
+    "father": "Aarti Chand Sen",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 0,
+    "maxMarks": 500,
+    "status": "ABSENT",
+    "division": "N/A",
+    "percentage": 0
+  },
+  "101161": {
+    "roll": "101161",
+    "name": "Sunita Lal Mehta",
+    "father": "Ramesh Nair",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 333,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 67
+  },
+  "101162": {
+    "roll": "101162",
+    "name": "Swati Kumar Jha",
+    "father": "Meena Prasad Srivastava",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 358,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 72
+  },
+  "101163": {
+    "roll": "101163",
+    "name": "Vikram Sen Saxena",
+    "father": "Neha Mishra",
+    "mother": "Sarla Gupta",
+    "subjects": {
+      "English": {
+        "marks": 38,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 64,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 358,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 72
+  },
+  "101164": {
+    "roll": "101164",
+    "name": "Ritu Sen Mishra",
+    "father": "Renu Sen Rai",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 69,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 398,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 80
+  },
+  "101165": {
+    "roll": "101165",
+    "name": "Kiran Sen Kumar",
+    "father": "Sanjay Chand Gupta",
+    "mother": "Kamla Singh",
+    "subjects": {
+      "English": {
+        "marks": 41,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 61,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 330,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 66
+  },
+  "101166": {
+    "roll": "101166",
+    "name": "Sumit Kumar Saxena",
+    "father": "Ramesh Prasad Vyas",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 326,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 65
+  },
+  "101167": {
+    "roll": "101167",
+    "name": "Pooja Chand Srivastava",
+    "father": "Sonia Verma Rai",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 37,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 70,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 345,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 69
+  },
+  "101168": {
+    "roll": "101168",
+    "name": "Arjun Kumar Chauhan",
+    "father": "Meena Joshi",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 31,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 316,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 63
+  },
+  "101169": {
+    "roll": "101169",
+    "name": "Aarti Lal Singh",
+    "father": "Nisha Sharma Srivastava",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 81,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 48,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 339,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 68
+  },
+  "101170": {
+    "roll": "101170",
+    "name": "Sumit Singh Vyas",
+    "father": "Ashish Kumar Sen",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 31,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 24,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 43,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 53,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 229,
+    "maxMarks": 500,
+    "status": "FAIL",
+    "division": "N/A",
+    "percentage": 46
+  },
+  "101171": {
+    "roll": "101171",
+    "name": "Rajesh Sen Singh",
+    "father": "Nitin Sharma Choudhary",
+    "mother": "Sunita Devi",
+    "subjects": {
+      "English": {
+        "marks": 78,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 50,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 357,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 71
+  },
+  "101172": {
+    "roll": "101172",
+    "name": "Ramesh Sen Saxena",
+    "father": "Sunil Sen Srivastava",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 39,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 288,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 58
+  },
+  "101173": {
+    "roll": "101173",
+    "name": "Priyanka Sen Rao",
+    "father": "Kiran Kumar Kumar",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 42,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 31,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 15,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 153,
+    "maxMarks": 500,
+    "status": "FAIL",
+    "division": "N/A",
+    "percentage": 31
+  },
+  "101174": {
+    "roll": "101174",
+    "name": "Gaurav Lal Verma",
+    "father": "Pooja Sharma Sen",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 71,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 64,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 395,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 79
+  },
+  "101175": {
+    "roll": "101175",
+    "name": "Sumit Sen Sharma",
+    "father": "Arjun Singh Sharma",
+    "mother": "Sunita Devi",
+    "subjects": {
+      "English": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 10,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 72,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 294,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 59
+  },
+  "101176": {
+    "roll": "101176",
+    "name": "Amit Verma Yadav",
+    "father": "Harish Chand Vyas",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 44,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 367,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 73
+  },
+  "101177": {
+    "roll": "101177",
+    "name": "Kiran Singh Yadav",
+    "father": "Jyoti Sen Rao",
+    "mother": "Kamla Singh",
+    "subjects": {
+      "English": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 45,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 363,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 73
+  },
+  "101178": {
+    "roll": "101178",
+    "name": "Anjali Lal Roy",
+    "father": "Ashish Lal Saxena",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 34,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 56,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 36,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 278,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 56
+  },
+  "101179": {
+    "roll": "101179",
+    "name": "Kiran Kumar Gupta",
+    "father": "Aarti Sharma Patel",
+    "mother": "Sarla Gupta",
+    "subjects": {
+      "English": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 67,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 302,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 60
+  },
+  "101180": {
+    "roll": "101180",
+    "name": "Manoj Kumar Chauhan",
+    "father": "Nitin Chand Yadav",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 33,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 38,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 94,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 271,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 54
+  },
+  "101181": {
+    "roll": "101181",
+    "name": "Seema Lal Rai",
+    "father": "Jyoti Sharma Choudhary",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 74,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 41,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 51,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 64,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 320,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 64
+  },
+  "101182": {
+    "roll": "101182",
+    "name": "Swati Lal Vyas",
+    "father": "Meena Sharma Chauhan",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 46,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 32,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 36,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 242,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 48
+  },
+  "101183": {
+    "roll": "101183",
+    "name": "Arvind Lal Pandey",
+    "father": "Pankaj Srivastava",
+    "mother": "Gita Devi",
+    "subjects": {
+      "English": {
+        "marks": 89,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 90,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 74,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 436,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 87
+  },
+  "101184": {
+    "roll": "101184",
+    "name": "Neha Prasad Chauhan",
+    "father": "Deepak Sharma Das",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 42,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 43,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 54,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 289,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 58
+  },
+  "101185": {
+    "roll": "101185",
+    "name": "Jyoti Verma Verma",
+    "father": "Sachin Prasad Pandey",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 41,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 8,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 305,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 61
+  },
+  "101186": {
+    "roll": "101186",
+    "name": "Alok Kumar Joshi",
+    "father": "Sumit Sen Choudhary",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 287,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 57
+  },
+  "101187": {
+    "roll": "101187",
+    "name": "Renu Chand Das",
+    "father": "Sumit Lal Vyas",
+    "mother": "Sarla Gupta",
+    "subjects": {
+      "English": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 354,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 71
+  },
+  "101188": {
+    "roll": "101188",
+    "name": "Vijay Sen Trivedi",
+    "father": "Anjali Sen Mehta",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 73,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 59,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 24,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 315,
+    "maxMarks": 500,
+    "status": "COMPARTMENT",
+    "division": "N/A",
+    "percentage": 63
+  },
+  "101189": {
+    "roll": "101189",
+    "name": "Sunil Kumar Rao",
+    "father": "Abhishek Prasad Das",
+    "mother": "Kusum Jha",
+    "subjects": {
+      "English": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 33,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 57,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 291,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 58
+  },
+  "101190": {
+    "roll": "101190",
+    "name": "Ashish Kumar Prasad",
+    "father": "Suresh Singh Rao",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 88,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 84,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 92,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 419,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 84
+  },
+  "101191": {
+    "roll": "101191",
+    "name": "Alok Prasad Sen",
+    "father": "Preeti Chand Sinha",
+    "mother": "Maya Verma",
+    "subjects": {
+      "English": {
+        "marks": 47,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 55,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 62,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 349,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 70
+  },
+  "101192": {
+    "roll": "101192",
+    "name": "Anil Verma Rai",
+    "father": "Swati Sharma Saxena",
+    "mother": "Suman Sharma",
+    "subjects": {
+      "English": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 80,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 391,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 78
+  },
+  "101193": {
+    "roll": "101193",
+    "name": "Nitin Singh Sinha",
+    "father": "Sonia Sharma Das",
+    "mother": "Sunita Devi",
+    "subjects": {
+      "English": {
+        "marks": 96,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 37,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 46,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 354,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 71
+  },
+  "101194": {
+    "roll": "101194",
+    "name": "Kunal Kumar Bhatt",
+    "father": "Sunil Kumar Gupta",
+    "mother": "Kanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 87,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 387,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 77
+  },
+  "101195": {
+    "roll": "101195",
+    "name": "Aarti Singh Jha",
+    "father": "Meena Sen Dutta",
+    "mother": "Pushpa Devi",
+    "subjects": {
+      "English": {
+        "marks": 52,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 66,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 49,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 306,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "FIRST",
+    "percentage": 61
+  },
+  "101196": {
+    "roll": "101196",
+    "name": "Sunita Kumar Sinha",
+    "father": "Nitin Sen Rai",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": "AB",
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 0,
+    "maxMarks": 500,
+    "status": "ABSENT",
+    "division": "N/A",
+    "percentage": 0
+  },
+  "101197": {
+    "roll": "101197",
+    "name": "Priyanka Sen Jha",
+    "father": "Kavita Chand Bhatt",
+    "mother": "Sunita Devi",
+    "subjects": {
+      "English": {
+        "marks": 98,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 63,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 79,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 68,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 383,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 77
+  },
+  "101198": {
+    "roll": "101198",
+    "name": "Ashish Singh",
+    "father": "Rahul Lal Jha",
+    "mother": "Sunita Devi",
+    "subjects": {
+      "English": {
+        "marks": 75,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 58,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 39,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 42,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 64,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 278,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "SECOND",
+    "percentage": 56
+  },
+  "101199": {
+    "roll": "101199",
+    "name": "Alok Verma Pandey",
+    "father": "Anil Chand Verma",
+    "mother": "Shanti Devi",
+    "subjects": {
+      "English": {
+        "marks": 61,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 77,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 60,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 86,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 95,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 379,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 76
+  },
+  "101200": {
+    "roll": "101200",
+    "name": "Harish Verma Singh",
+    "father": "Nisha Singh Sharma",
+    "mother": "Meera Devi",
+    "subjects": {
+      "English": {
+        "marks": 76,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Mathematics": {
+        "marks": 83,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Science": {
+        "marks": 99,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Social Science": {
+        "marks": 65,
+        "maxMarks": 100,
+        "passingMarks": 33
+      },
+      "Hindi": {
+        "marks": 82,
+        "maxMarks": 100,
+        "passingMarks": 33
+      }
+    },
+    "totalMarks": 405,
+    "maxMarks": 500,
+    "status": "PASS",
+    "division": "DISTINCTION",
+    "percentage": 81
+  }
+}

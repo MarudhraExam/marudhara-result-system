@@ -1,0 +1,15 @@
+{
+  "id": "sec_exam_2026",
+  "name": "Annual Secondary School Examination 2026",
+  "year": "2026",
+  "total_students": 200,
+  "subjects_list": [
+    "English",
+    "Mathematics",
+    "Science",
+    "Social Science",
+    "Hindi"
+  ],
+  "roll_min": "101001",
+  "roll_max": "101200"
+}

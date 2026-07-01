@@ -1,6 +1,0 @@
-{
-  "name": "Board Result Search Engine",
-  "description": "Zero-cost, high-performance static indexed result search system and Excel database generator compatible with GitHub Pages.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
